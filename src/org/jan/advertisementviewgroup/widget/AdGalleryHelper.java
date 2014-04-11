@@ -15,6 +15,7 @@ import android.widget.TextView;
 
 /**
  * 对自定义组件AdGallery进行了一次封装 包含对图片标题和当前位置指示器(RadioGroup)的操作
+ * @author jan
  */
 public class AdGalleryHelper {
 

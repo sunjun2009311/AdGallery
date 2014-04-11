@@ -2,9 +2,7 @@ package org.jan.advertisementviewgroup;
 
 /**
  * 广告实体类
- * 
  * @author jan
- * 
  */
 public class Advertisement {
 
